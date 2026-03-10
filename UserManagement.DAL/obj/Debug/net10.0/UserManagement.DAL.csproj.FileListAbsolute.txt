@@ -1,0 +1,17 @@
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net10.0\UserManagement.DAL.deps.json
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net10.0\UserManagement.DAL.runtimeconfig.json
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net10.0\UserManagement.DAL.dll
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net10.0\UserManagement.DAL.pdb
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net10.0\Shared.dll
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net10.0\Shared.pdb
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.AssemblyInfo.cs
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserMana.2E549C1D.Up2Date
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.dll
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\refint\UserManagement.DAL.dll
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.pdb
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\UserManagement.DAL.genruntimeconfig.cache
+C:\Users\PC-26\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net10.0\ref\UserManagement.DAL.dll
