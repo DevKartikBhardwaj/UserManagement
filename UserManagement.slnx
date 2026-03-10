@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Shared/Shared.csproj" />
+  <Project Path="UserManagement.BAL/UserManagement.BAL.csproj" />
+  <Project Path="UserManagement.DAL/UserManagement.DAL.csproj" />
+  <Project Path="UserManagement.UI/UserManagement.UI.csproj" />
+  <Project Path="Utility/Utility.csproj" />
+</Solution>

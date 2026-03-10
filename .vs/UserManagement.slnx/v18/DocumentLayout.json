@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B7D282-A8B7-F5CB-069C-B79529D3843E}|UserManagement.BAL\\UserManagement.BAL.csproj|c:\\users\\pc-26\\source\\repos\\usermanagement\\usermanagement.bal\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B7D282-A8B7-F5CB-069C-B79529D3843E}|UserManagement.BAL\\UserManagement.BAL.csproj|solutionrelative:usermanagement.bal\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B877F4-0C5C-F701-79D1-4264E1744F45}|UserManagement.DAL\\UserManagement.DAL.csproj|c:\\users\\pc-26\\source\\repos\\usermanagement\\usermanagement.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B877F4-0C5C-F701-79D1-4264E1744F45}|UserManagement.DAL\\UserManagement.DAL.csproj|solutionrelative:usermanagement.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D93F-F67C-3023-5378-3817894B4D81}|UserManagement.UI\\UserManagement.UI.csproj|c:\\users\\pc-26\\source\\repos\\usermanagement\\usermanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D93F-F67C-3023-5378-3817894B4D81}|UserManagement.UI\\UserManagement.UI.csproj|solutionrelative:usermanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B877F4-0C5C-F701-79D1-4264E1744F45}|UserManagement.DAL\\UserManagement.DAL.csproj|c:\\users\\pc-26\\source\\repos\\usermanagement\\usermanagement.dal\\databasecontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B877F4-0C5C-F701-79D1-4264E1744F45}|UserManagement.DAL\\UserManagement.DAL.csproj|solutionrelative:usermanagement.dal\\databasecontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.BAL\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "UserManagement.BAL\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.BAL\\Services\\UserServices.cs",
+              "RelativeToolTip": "UserManagement.BAL\\Services\\UserServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:04:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement.DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "UserManagement.DAL\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:48:05.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.UI\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.UI\\Program.cs",
+              "RelativeToolTip": "UserManagement.UI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:24:06.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.DAL\\DatabaseContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagement.DAL\\DatabaseContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC-26\\source\\repos\\UserManagement\\UserManagement.DAL\\DatabaseContext\\AppDbContext.cs",
+              "RelativeToolTip": "UserManagement.DAL\\DatabaseContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:49:26.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
